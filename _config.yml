@@ -10,16 +10,16 @@ menu:
 # site title 
 # 页面的标题
 # title为空时 Hexo/_config.yml 配置有效
-title: hexo-theme-nayo
+title: 
 
 # author profile
 # source/imgaes/
 # 作者信息
 # author为空时 Hexo/_config.yml 配置有效
 profile: 
-  author: Lemon
-  avatar: /images/header.jpg  
-  description: hi,i am lemon
+  author: Lizy
+  avatar: /images/local-logo.png  
+  description: 
 
 # site favicon
 # source/imgaes/
@@ -28,27 +28,27 @@ favicon: /images/favicon.png
 
 # social link
 social:  
-  Github: https://github.com/Lemonreds/hexo-theme-nayo 
-  Weibo:
-# Zhihu:
-  Facebook:
-  Twitter:
-  Instagram:
-  LinkedIn:
+#   Github: https://github.com/Lemonreds/hexo-theme-nayo 
+#   Weibo:
+# # Zhihu:
+#   Facebook:
+#   Twitter:
+#   Instagram:
+#   LinkedIn:
 
 
 # toc
 # 文章的目录 
 toc:
-    false
+    true
 
 # site analytics 
 # 站点访问统计
 # [ analytics id ]
 baidu_analytics:
- 636802045446222199ae541e32c8133e 
-google_analytics: 
 
+google_analytics: 
+  UA-121998627-1
 # comment
 
 # disqus(https://disqus.com/)
@@ -60,8 +60,8 @@ disqus:
 # 创建 leancloud 应用 获取 id|key 填入即可
 leancloud:  
   comment: false
-  app_id: cFM0eCo0CQ9xmBXmHi1eltol-gzGzoHsz
-  app_key: oh9tizsnvV2vNvWgqEvoNtQO
+  app_id: 
+  app_key: 
 
 # mob share(http://www.mob.com)
 # 文章分享功能
@@ -76,17 +76,17 @@ share_item:
 - facebook
 - twitter
 #- tumblr
-- google
+# - google
 
 
 # donate
 # 捐赠功能
 # source/imgaes/
 donate:
-  enable: true
+  enable: false
   word: 世界美好 你也是
-  wechat: /images/donate1.png
-  alipay: /images/donate2.png
+  wechat: 
+  alipay: 
 
 # mathjax 
 # 渲染LateX公式
@@ -105,8 +105,8 @@ mathjax:
 # footer
 # 底部信息
 footer:
-  author: Lemon
-  since: 2017
+  author: Lizy
+  since: 2018
 
 
 # theme version
